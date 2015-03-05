@@ -19,6 +19,8 @@ $_['text_shipping']                    = 'Endereço de envio';
 $_['text_payment']                     = 'Endereço de cobrança';
 $_['text_mail']                        = 'Mail';
 $_['text_smtp']                        = 'SMTP';
+$_['text_google_analytics']            = 'Google Analytics';
+$_['text_google_captcha']              = 'Google reCAPTCHA';
 
 // Entry
 $_['entry_name']                       = 'Loja';
